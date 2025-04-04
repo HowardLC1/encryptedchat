@@ -1,0 +1,20 @@
+{
+  "default_server_config": {
+    "m.homeserver": {
+      "base_url": "https://encryptedchat.me"
+},
+  "m.identity_server": {
+            "base_url": "https://vector.im" }
+    },
+  "brand": "EncryptedChat",
+  "desktop_builds": {
+   "logo": "https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-2178-51f7-9b56-d60e04269288/raw?se=2025-04-04T19%3A23%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=feb41d3a-b97f-50ed-a3c2-a301e42312ab&skoid=f0c3f613-0f9b-4a8a-a29a-c1a910343ad7&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-04T13%3A26%3A05Z&ske=2025-04-05T13%3A26%3A05Z&sks=b&skv=2024-08-04&sig=R0sY1wgpvLriBIK7P0btYK/xqMnpgSscxFIwSQBK6uw%3D"
+},
+  "branding": {
+    "welcome_background_url": "https://avatars.mds.yandex.net/i?id=f88ba87f3becf25754ea7e2cf5d4dc2b_l-5318071-images-thumbs&n=13",
+    "auth_header_logo_url": "https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-2178-51f7-9b56-d60e04269288/raw?se=2025-04-04T19%3A23%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=feb41d3a-b97f-50ed-a3c2-a301e42312ab&skoid=f0c3f613-0f9b-4a8a-a29a-c1a910343ad7&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-04T13%3A26%3A05Z&ske=2025-04-05T13%3A26%3A05Z&sks=b&skv=2024-08-04&sig=R0sY1wgpvLriBIK7P0btYK/xqMnpgSscxFIwSQBK6uw%3D",
+   "auth_footer_links": [
+            { "text": "Github", "url": "https://github.com/HowardLC1/matrix-private-chat-app" }
+]
+  }
+}
